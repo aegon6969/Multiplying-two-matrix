@@ -13,6 +13,9 @@ To write a python program for multiplying two matrix.
 
 ## PROGRAM: 
 ```PYTHON
+To write a python program for multiplying two matrix.
+Developed By: M.Rishi
+Register Number: 22000276
 import numpy as np
 n=int(input())
 l1=[]
